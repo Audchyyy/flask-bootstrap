@@ -105,3 +105,5 @@ def edit_car(id):
         title='Edit Car Page',
         car=car
     )
+
+
